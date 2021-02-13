@@ -28,7 +28,7 @@ form button {
   background: white;
 }
 form button {
-  color: #ff6f47;
+  color: #d82f00;
   background: #f7fffe;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -75,7 +75,7 @@ form button:hover {
   font-size: 1rem;
 }
 .complete-btn {
-  background: rgb(11, 212, 162);
+  background: rgb(161, 189, 182);
 }
 .todo-item {
   padding: 0rem 0.5rem;
@@ -115,7 +115,7 @@ select {
   overflow: hidden;
 }
 select {
-  color: #ff6f47;
+  color: #362d2b;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
   width: 12rem;
@@ -127,7 +127,7 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #ff6f47;
+  background: #852a11;
   cursor: pointer;
   pointer-events: none;
 }
